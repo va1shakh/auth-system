@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "fullname": "cat",
+      "username": "cat",
+      "email": "cat@gmail.com",
+      "password": "cat123",
+      "id": "goWtkntvlVg"
+    },
+    {
+      "fullname": "vaishakht",
+      "username": "vaishakh",
+      "email": "vaishakhvgd@gmail.com",
+      "password": "vaishakh123",
+      "id": "nYJ_hY3lCCQ"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
